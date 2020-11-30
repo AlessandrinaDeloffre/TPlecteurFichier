@@ -1,0 +1,2 @@
+module TPlecteurFichier {
+}
